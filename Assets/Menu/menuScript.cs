@@ -19,9 +19,4 @@ public class menuScript : MonoBehaviour {
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
     }
-
-    public void onClickExit()
-    {
-        Application.Quit();
-    }
 }

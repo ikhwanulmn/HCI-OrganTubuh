@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAkhir3 - Copy", "ProjectAkhir3 - Copy.csproj", "{5C7ADC04-45E4-9914-54CD-D7F1046ADD33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAkhir3 - Copy.Editor", "ProjectAkhir3 - Copy.Editor.csproj", "{B94C10E3-5C4F-EEDE-8438-E9EB21E1DE70}"
